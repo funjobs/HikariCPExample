@@ -1,16 +1,16 @@
 
-X	java:S125D"<This block of commented-out lines of code should be removed.(—ãÓ™8ó¼Ø˜.
-e
-java:S2259K"HA "NullPointerException" could be thrown; "connection" is nullable here.(İÌï8Æ—ù˜.
-E
-java:S1148M"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8Æ—ù˜.
-q
-java:S20955"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(äÙóöùÿÿÿÿ8¦Š«˜.
-E
-java:S1148O"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Æ—ù˜.
+U	java:S106B"9Replace this use of System.out or System.err by a logger.(¯øİé8»®Ä˜.
 j
 java:S20954"HUse try-with-resources or close this "Connection" in a "finally" clause.(«’ò¥øÿÿÿÿ8Æ—ù˜.
 Z	java:S106@"9Replace this use of System.out or System.err by a logger.(ËÀ¬Êÿÿÿÿÿ8‚•º˜.
-U	java:S106B"9Replace this use of System.out or System.err by a logger.(¯øİé8»®Ä˜.
+E
+java:S1148O"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8Æ—ù˜.
 P
 java:S14811".Remove this unused "resultSet" local variable.(›÷Œœúÿÿÿÿ8ó¼Ø˜.
+X	java:S125D"<This block of commented-out lines of code should be removed.(—ãÓ™8ó¼Ø˜.
+E
+java:S1148M"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ8Æ—ù˜.
+e
+java:S2259K"HA "NullPointerException" could be thrown; "connection" is nullable here.(İÌï8Æ—ù˜.
+q
+java:S20955"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(äÙóöùÿÿÿÿ8¦Š«˜.
